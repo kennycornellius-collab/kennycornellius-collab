@@ -62,4 +62,4 @@ Some earlier builds — smaller scope, but show range:
 
 I'm open to most kinds of work — AI projects, data scraping, automation pipelines, data formatting and cleaning, backend scripting, or anything where you need something built reliably. If you have a problem and need someone to write the code that solves it, reach out.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kennycornellius09@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=kennycornellius09@gmail.com)
